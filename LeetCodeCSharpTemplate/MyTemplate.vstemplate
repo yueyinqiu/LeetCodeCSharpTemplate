@@ -17,8 +17,8 @@
   </TemplateData>
   <TemplateContent>
     <Project TargetFileName="LeetCodeCSharpTemplate.csproj" File="LeetCodeCSharpTemplate.csproj" ReplaceParameters="true">
-      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs" OpenInEditor="true" OpenOrder="10">Program.cs</ProjectItem>
-      <ProjectItem ReplaceParameters="true" TargetFileName="Solution.cs" OpenInEditor="true" OpenOrder="20">Solution.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Solution.cs" OpenInEditor="true" OpenOrder="10">Solution.cs</ProjectItem>
     </Project>
   </TemplateContent>
 </VSTemplate>
