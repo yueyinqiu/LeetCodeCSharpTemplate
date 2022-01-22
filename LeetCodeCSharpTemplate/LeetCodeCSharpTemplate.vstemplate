@@ -1,11 +1,10 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
+    <TemplateID>f5ca9ab4-734c-4e20-af7f-45da5b034ca5</TemplateID>
     <Name>LeetCode Solution</Name>
     <Description>Solution for a problem on LeetCode</Description>
     <ProjectType>CSharp</ProjectType>
     <LanguageTag>csharp</LanguageTag>
-    <ProjectSubType>
-    </ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>LeetCodeProblem</DefaultName>
